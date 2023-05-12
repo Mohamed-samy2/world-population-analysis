@@ -19,6 +19,10 @@ The project stages are as follows:
 
 •	Interactive data analysis using power bi.
 
+https://github.com/Mohamed-samy2/world-population-analysis/assets/92379704/31711aa4-41c8-483f-a67e-aa8c5208cfe5
+
+
+
 
 Power Bi link:
 https://clipchamp.com/watch/qvuzS1bhiZ9
@@ -46,5 +50,8 @@ Technical Team:
 Date of creation
 
 •	30 April 2023
+
+
+
 
 
